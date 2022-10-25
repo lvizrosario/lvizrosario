@@ -9,10 +9,10 @@
 
 **`SKILLS`**
 
-1.🪄 Javascript
-2.⚗️ Cypress
-3.🕳️ BDD
-4.📃 Cucumber
+-🪄 Javascript
+-⚗️ Cypress
+-🕳️ BDD
+-📃 Cucumber
 
 
 <h3>
