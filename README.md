@@ -7,7 +7,7 @@
 
 **Align center:**
 <p align="center" width="100%">
-    <iframe src="https://giphy.com/embed/3o7WTL4qQCbbLLV2Pm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="[https://...thumbs-up.gif](https://media1.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47cy7wto542a2avvapz5uyjh7t0sgxy7y4gdahny80&rid=giphy.gif&ct=g)">
 </p>
 
 
