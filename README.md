@@ -5,8 +5,9 @@
 <p>I'm a QA Engineer in a financing credit company. For now I work with manual tests, but I'm developing myself to be a Automation Engineer. I hope you will enjoy my profile and if I could help you in some way, the pelasure is mine.</p>
 
 
-<p align="center">
-  <img src="QA.gif" alt="animated" />
+**Align center:**
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png](https://giphy.com/embed/3o7WTL4qQCbbLLV2Pm)">
 </p>
 
 
