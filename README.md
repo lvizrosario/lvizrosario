@@ -21,5 +21,5 @@
 
 
 <h6>
-Learning: Big Data and Data Analysis
+Learning: Automation Tests
 </h6>
